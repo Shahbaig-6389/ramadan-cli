@@ -1,10 +1,10 @@
-[![ramadan-cli](https://raw.githubusercontent.com/ahmadawais/ramadan-cli/refs/heads/main/.github/cover.png)](https://x.com/MrAhmadAwais/)
+[![ramadan-cli](https://raw.githubusercontent.com/shahbaig-6389/ramadan-cli/refs/heads/main/.github/cover.png)](https://x.com/H_Shah126/)
 
 # ramadan-cli 🌙
 
 [![DOWNLOADS](https://img.shields.io/npm/dt/ramadan-cli?label=npm&colorA=151B23&colorB=81F096&style=for-the-badge)](https://www.npmjs.com/package/ramadan-cli)
 [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=81F096&style=for-the-badge)](https://NodeCLI.com/?utm_source=FOSS)
-[![Follow @MrAhmadAwais on X](https://img.shields.io/badge/FOLLOW%20%40MrAhmadAwais-gray.svg?colorA=151B23&colorB=81F096&style=for-the-badge)](https://x.com/mrahmadawais/)
+[![Follow @H_Shah126 on X](https://img.shields.io/badge/FOLLOW%20%40H_Shah126-gray.svg?colorA=151B23&colorB=81F096&style=for-the-badge)](https://x.com/H_Shah126/)
 
 > Ramadan-first CLI for Sehar and Iftar timings in your terminal.
 
@@ -24,7 +24,7 @@ Built for humans and agents.
 - 🧪 Custom first roza override (`--first-roza-date`)
 - 🧹 One-command reset (`reset`)
 
-[![ramadan-cli](https://raw.githubusercontent.com/ahmadawais/ramadan-cli/refs/heads/main/.github/ramadan.gif)](https://x.com/MrAhmadAwais/)
+[![ramadan-cli](https://raw.githubusercontent.com/Shahbaig-6389/ramadan-cli/refs/heads/main/.github/ramadan.gif)](https://x.com/H_Shah126/)
 
 
 ## Install
@@ -43,7 +43,7 @@ roza
 Install this repo as an agent skill package:
 
 ```sh
-npx skills add ahmadawais/ramadan-cli
+npx skills add H_Shah126/ramadan-cli
 ```
 
 ## Usage
